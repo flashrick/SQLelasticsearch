@@ -1,6 +1,6 @@
 <?php
 
-namespace Flashrick\ElasticSearchsql;
+namespace Flashrick\ElasticSearchSQL;
 
 use Elasticsearch\Client;
 use Elasticsearch\ClientBuilder;
@@ -9,7 +9,7 @@ use Illuminate\Support\ServiceProvider;
 /**
  * Class LaravelServiceProvider
  *
- * @package Flashrick\ElasticSearchsql
+ * @package Flashrick\ElasticSearchSQL
  * @author simon
  */
 class LaravelServiceProvider extends ServiceProvider

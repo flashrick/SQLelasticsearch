@@ -1,6 +1,6 @@
 <?php
 
-namespace Flashrick\ElasticSearchsql;
+namespace Flashrick\ElasticSearchSQL;
 
 use Elasticsearch\Client;
 use Elasticsearch\ClientBuilder;
@@ -11,7 +11,7 @@ use stdClass;
 /**
  * Class Builder
  *
- * @package Flashrick\ElasticSearchsql
+ * @package Flashrick\ElasticSearchSQL
  * @author simon
  */
 class Builder

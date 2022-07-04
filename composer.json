@@ -16,7 +16,7 @@
     },
 	"autoload": {
         "psr-4": {
-            "Flashrick\\Elasticsearchsql\\": "src/"
+            "Flashrick\\ElasticSearchSQL\\": "src/"
         }
     }
 }

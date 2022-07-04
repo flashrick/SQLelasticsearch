@@ -1,11 +1,11 @@
 <?php
 
-namespace Flashrick\ElasticSearchsql;
+namespace Flashrick\ElasticSearchSQL;
 
 /**
  * Class Grammar
  *
- * @package Flashrick\ElasticSearchsql
+ * @package Flashrick\ElasticSearchSQL
  * @author simon
  */
 class Grammar
