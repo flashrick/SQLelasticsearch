@@ -1,6 +1,6 @@
 <?php
 
-namespace CrCms\ElasticSearch;
+namespace Flashrick\ElasticSearchsql;
 
 use Elasticsearch\Client;
 use Elasticsearch\ClientBuilder;
@@ -11,7 +11,7 @@ use stdClass;
 /**
  * Class Builder
  *
- * @package CrCms\ElasticSearch
+ * @package Flashrick\ElasticSearchsql
  * @author simon
  */
 class Builder

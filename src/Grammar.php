@@ -1,11 +1,11 @@
 <?php
 
-namespace CrCms\ElasticSearch;
+namespace Flashrick\ElasticSearchsql;
 
 /**
  * Class Grammar
  *
- * @package CrCms\ElasticSearch
+ * @package Flashrick\ElasticSearchsql
  * @author simon
  */
 class Grammar
